@@ -86,6 +86,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 
 - [Import python](http://importpython.com/newsletter/) - Insightful Articles, Tutorials, Projects, Videos, Tweets. ([Archive](http://importpython.com/newsletter/archive/))
 - [Python weekly](https://www.pythonweekly.com/) - Curated news, articles, new releases, jobs etc related to Python.
+- [Python Trending Weekly](https://weekly.pythoncat.top/en/) - Weekly Python articles, open-source projects and trending topics curated from 400+ Chinese and English sources. ([Archive](https://weekly.pythoncat.top/en/issues/))
 
 ## React
 
