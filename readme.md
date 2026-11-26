@@ -27,6 +27,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [iOS](#ios)
 - [Marketing](#marketing)
 - [System Design](#system-design)
+- [DevOps](#devops)
 - [Other](#other)
 
 ## AI
@@ -146,6 +147,10 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 
 - [Limitless System Design](https://www.linkedin.com/newsletters/limitless-system-design-7335259589879197700/) - Newsletter for engineers who refuse to accept “good enough” architecture.
 - [ByteByteGo](https://blog.bytebytego.com/) - Explain complex systems with simple terms, from the authors of the best-selling system design book series
+
+## DevOps
+
+- [AI SRE Weekly](https://www.linkedin.com/company/ai-sre-weekly/) - Weekly newsletter tracking the AI SRE category: vendor launches, funding, incident-automation research and what changed for on-call teams. ([Archive](https://medium.com/@aisreweekly))
 
 ## Other
 
